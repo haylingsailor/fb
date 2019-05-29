@@ -16,7 +16,7 @@ Assuming you're using a bash commandline, from the root folder of the repo,
 
 Run all the tests in all the exercises with: `go test ./...`.
 
-To build and run a specific test (e.g. `exercise`):
+To build and run a specific test (e.g. `exercise1`):
 
 - Descend to the `exercise1` directory
 - Do `go test` to see the output of the test.
