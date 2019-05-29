@@ -1,6 +1,7 @@
 # Flashback Code exercise
 
 ## Prerequisites
+
 These tests are written in Go and require Go 1.12 or later to run.
 
 To install Go, follow [these instructions](https://golang.org/doc/install).
@@ -9,7 +10,7 @@ Once installed and verified, clone [haylingsailor/fd](https://github.com/hayling
 
 ## Running tests, building and running the exercises
 
-The `cmd` folder contains the 3 exercises as separate binaries.
+The `cmd` folder contains the 3 exercises as separate binaries. For each, the implementation is in `main.go` and the tests in `main_test.go`.
 
 Assuming you're using a bash commandline, from the root folder of the repo,
 
