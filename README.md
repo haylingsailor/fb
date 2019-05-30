@@ -1,4 +1,4 @@
-# Flashback Code exercise
+# Flashpack Code exercise
 
 ## Prerequisites
 
